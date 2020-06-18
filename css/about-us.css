@@ -54,6 +54,9 @@
 	.col-main{
 		padding: 0 1.875rem;
 	}
+	.main{
+		padding-top: 50px;
+	}
 
 	.hide{
 		display: none;
@@ -111,11 +114,14 @@
 		width: 100%;
 
 	}
+	.main{
+		padding-top: 80px;
+	}
 
 	p{
 		line-height: 2.5rem;
 		font-family: 'Quicksand', sans-serif;
-		font-size: 1.313rem;
+		font-size: 1.013rem;
 		margin-top: 50px;
 	}
 
